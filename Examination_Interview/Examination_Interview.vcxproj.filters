@@ -87,5 +87,14 @@
     <ClCompile Include="ks_ex4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="wy_3_ex3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pdd_2_ex2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pdd_2_ex3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

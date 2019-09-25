@@ -128,6 +128,7 @@
     <ClCompile Include="ks_ex3.cpp" />
     <ClCompile Include="ks_ex4.cpp" />
     <ClCompile Include="mt_ex1.cpp" />
+    <ClCompile Include="pdd_2_ex2.cpp" />
     <ClCompile Include="pdd_ex2.cpp" />
     <ClCompile Include="pdd_ex4.cpp" />
     <ClCompile Include="tx_ex2.cpp" />
@@ -142,6 +143,8 @@
     <ClCompile Include="hw_2_ex3.cpp" />
     <ClCompile Include="tx_2_ex4.cpp" />
     <ClCompile Include="bilibili_ex1.cpp" />
+    <ClCompile Include="wy_3_ex3.cpp" />
+    <ClCompile Include="pdd_2_ex3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
